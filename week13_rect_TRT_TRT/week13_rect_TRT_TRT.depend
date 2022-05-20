@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1652755079 source:c:\users\陳怡萱\onedrive\桌面\week13_rect_trt_trt\main.cpp
+	<GL/glut.h>
+
+1645535576 c:\users\陳怡萱\onedrive\桌面\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1645535576 c:\users\陳怡萱\onedrive\桌面\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
