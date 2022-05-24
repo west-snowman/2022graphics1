@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1653364551 source:c:\users\陳怡萱\onedrive\桌面\week14_timer_one_by_one\main.cpp
+	<GL/glut.h>
+	<stdio.h>
+	<mmsystem.h>
+
+1645535576 c:\users\陳怡萱\onedrive\桌面\freeglut\include\gl\glut.h
+	"freeglut_std.h"
+
+1645535576 c:\users\陳怡萱\onedrive\桌面\freeglut\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
